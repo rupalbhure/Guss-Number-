@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    color: white;
+}
+.main-cont{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.button1{
+
+    display: flex;
+    /* border: 2px solid rgb(215, 213, 213);
+    padding: 10px; */
+   
+
+}
+
+.btn1{
+    margin-right: 20px;
+}
